@@ -13,7 +13,7 @@ redirect_from:
   - "docs/jsx-in-depth-ko-KR.html"
 ---
 
-本质上来讲，JSX 只是为 `React.createElement(component, props, ...children) ` 方法提供的语法糖。比如下面的代码：
+本质上来讲，JSX 只是为 `React.createElement(component, props, ...children) ` 方法提供的语法。比如下面的代码：
 
 ```js
 <MyButton color="blue" shadowSize={2}>
